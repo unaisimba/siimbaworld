@@ -1,2 +1,0 @@
-# siimbaworld
-dj
